@@ -1,5 +1,4 @@
 # Statistics
-<<<<<<< HEAD
 This repository contains statistics for data science topics. Topics and their corresponding page no. can be found in the following table:
 
 Table of contents 
@@ -44,7 +43,3 @@ Table of contents
 | 2 Sample Z-test | 50 |
 | 2 Sample Z-test for proportion | 52 |
 | A/B Testing | 54 |
-=======
-This repository contains statistics for data science topics.
-This will cover basic to advance statistics.
->>>>>>> main
